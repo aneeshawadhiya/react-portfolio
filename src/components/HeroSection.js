@@ -53,7 +53,7 @@ const HeroStyles = styled.div`
     flex-direction: column;
     gap: 2rem;
     position: absolute;
-    bottom: 20px;
+    bottom: 30px;
     width: 50px;
   }
 
