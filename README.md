@@ -1,5 +1,4 @@
 # React Portfolio website
 
-Designed by - [shaif Arfan](http://github.com/shaifarfan) | [web cifar](http://webcifar.com)
+Designed by - [Aneesh Awadhiya](http://github.com/aneeshawadhiya) |
 
-![](./ReadMeImages/ReadMeBanner.png)
